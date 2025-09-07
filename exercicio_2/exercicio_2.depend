@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1757251677 source:c:\users\leand\onedrive - universidade federal de uberlândia\períodos\3º período\ed1\trabalho_pratico_02\exercicio_2\pilha_char.c
+	<stdlib.h>
+	"pilha_char.h"
+
+1757251647 c:\users\leand\onedrive - universidade federal de uberlândia\períodos\3º período\ed1\trabalho_pratico_02\exercicio_2\pilha_char.h
+
+1757251897 source:c:\users\leand\onedrive - universidade federal de uberlândia\períodos\3º período\ed1\trabalho_pratico_02\exercicio_2\pilha_float.c
+	<stdlib.h>
+	"pilha_float.h"
+
+1757251873 c:\users\leand\onedrive - universidade federal de uberlândia\períodos\3º período\ed1\trabalho_pratico_02\exercicio_2\pilha_float.h
+
